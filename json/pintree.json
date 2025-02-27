@@ -1,7 +1,7 @@
 [
   {
     "type": "folder",
-    "addDate": 1724477542949,
+    "addDate": 1737885898766,
     "title": "收藏夹栏",
     "children": [
       {
@@ -69,6 +69,20 @@
                 "title": "Windows 10 自带那么多图标，去哪里找呢？ - walterlv",
                 "icon": "https://logo.clearbit.com/blog.walterlv.com",
                 "url": "https://blog.walterlv.com/post/where-is-the-windows-10-native-icons.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1739712007620,
+                "title": "Over 1k icons Folder11 for Windows",
+                "icon": "https://logo.clearbit.com/icon11-community.github.io",
+                "url": "https://icon11-community.github.io/icons/"
+              },
+              {
+                "type": "link",
+                "addDate": 1739801324110,
+                "title": "12万有导航丨一个互联网全职业的聚合资源网址导航",
+                "icon": "https://logo.clearbit.com/wanyouw.com",
+                "url": "https://wanyouw.com/"
               }
             ]
           },
@@ -85,20 +99,6 @@
             "title": "淘宝网 - 淘！我喜欢",
             "icon": "https://logo.clearbit.com/www.taobao.com",
             "url": "https://www.taobao.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1694008127712,
-            "title": "文心一言",
-            "icon": "https://logo.clearbit.com/yiyan.baidu.com",
-            "url": "https://yiyan.baidu.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1699585744084,
-            "title": "阿里云-计算，为了无法计算的价值",
-            "icon": "https://logo.clearbit.com/www.aliyun.com",
-            "url": "https://www.aliyun.com/"
           },
           {
             "type": "link",
@@ -137,13 +137,6 @@
           },
           {
             "type": "link",
-            "addDate": 1718539171614,
-            "title": "Qt | 软件开发全周期的各阶段工具",
-            "icon": "https://logo.clearbit.com/www.qt.io",
-            "url": "https://www.qt.io/zh-cn/"
-          },
-          {
-            "type": "link",
             "addDate": 1717380592777,
             "title": "首页 - 知乎",
             "icon": "https://logo.clearbit.com/www.zhihu.com",
@@ -151,10 +144,31 @@
           },
           {
             "type": "link",
+            "addDate": 1738038972837,
+            "title": "DeepSeek | 深度求索",
+            "icon": "https://logo.clearbit.com/www.deepseek.com",
+            "url": "https://www.deepseek.com/"
+          },
+          {
+            "type": "link",
             "addDate": 1721009978495,
             "title": "可灵 AI - 新一代 AI 创意生产力平台",
             "icon": "https://logo.clearbit.com/klingai.kuaishou.com",
             "url": "https://klingai.kuaishou.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1739276366238,
+            "title": "OpenAI",
+            "icon": "https://logo.clearbit.com/openai.com",
+            "url": "https://openai.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1739968289515,
+            "title": "樱之空动漫 - 樱花之空中舞一夜❀动漫在线播放网站・skr.cc",
+            "icon": "https://logo.clearbit.com/www.skr2.cc",
+            "url": "https://www.skr2.cc/"
           }
         ]
       },
@@ -177,10 +191,10 @@
               },
               {
                 "type": "link",
-                "addDate": 1704355830227,
+                "addDate": 1738321721540,
                 "title": "中文 Minecraft Wiki",
                 "icon": "https://logo.clearbit.com/zh.minecraft.wiki",
-                "url": "https://zh.minecraft.wiki/?continueFlag=5ad7c634da41a98058adb4c583936bab"
+                "url": "https://zh.minecraft.wiki/"
               },
               {
                 "type": "link",
@@ -202,6 +216,13 @@
                 "title": "Tomorrow-Land - 这是一个教你从零开始写模组的地方",
                 "icon": "https://logo.clearbit.com/beishanair.github.io",
                 "url": "https://beishanair.github.io/"
+              },
+              {
+                "type": "link",
+                "addDate": 1739012039756,
+                "title": "所见皆是Minecraft - MCiSEE",
+                "icon": "https://logo.clearbit.com/mcisee.top",
+                "url": "https://mcisee.top/"
               },
               {
                 "type": "link",
@@ -258,13 +279,6 @@
                 "title": "Hielke Maps",
                 "icon": "https://logo.clearbit.com/hielkemaps.com",
                 "url": "https://hielkemaps.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1714365610525,
-                "title": "Complementary Development | Official Site",
-                "icon": "https://logo.clearbit.com/www.complementary.dev",
-                "url": "https://www.complementary.dev/"
               }
             ]
           },
@@ -459,6 +473,13 @@
           },
           {
             "type": "link",
+            "addDate": 1739858342823,
+            "title": "南开大学小雅",
+            "icon": "https://logo.clearbit.com/nankai.ai-augmented.com",
+            "url": "https://nankai.ai-augmented.com/home"
+          },
+          {
+            "type": "link",
             "addDate": 1695629742642,
             "title": "学生端",
             "icon": "https://logo.clearbit.com/10.134.1.2",
@@ -536,8 +557,8 @@
           },
           {
             "type": "link",
-            "addDate": 1737465731265,
-            "title": "HiAgent",
+            "addDate": 1740116371916,
+            "title": "NK-GeniOS",
             "icon": "https://logo.clearbit.com/coze.nankai.edu.cn",
             "url": "https://coze.nankai.edu.cn/product/llm/llm-chat"
           }
@@ -760,134 +781,225 @@
         "children": [
           {
             "type": "folder",
-            "addDate": 1718636270029,
-            "title": "帖子",
+            "addDate": 1738471160234,
+            "title": "社区",
             "children": [
               {
-                "type": "link",
-                "addDate": 1714232007530,
-                "title": "Git（分布式版本控制工具）_git _塞班呢的博客-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/a18307096730/article/details/124586216?spm=1001.2014.3001.5502"
+                "type": "folder",
+                "addDate": 1718636270029,
+                "title": "帖子",
+                "children": [
+                  {
+                    "type": "folder",
+                    "addDate": 1738244283246,
+                    "title": "C++",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1718635802363,
+                        "title": "windows环境下VSCode配置C++教程（使用msvc编译器）-CSDN博客",
+                        "icon": "https://logo.clearbit.com/blog.csdn.net",
+                        "url": "https://blog.csdn.net/lzh1097776020/article/details/127734980"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1715414427551,
+                        "title": "mciSendString函数简介（播放音乐以及录音相关操作）-CSDN博客",
+                        "icon": "https://logo.clearbit.com/blog.csdn.net",
+                        "url": "https://blog.csdn.net/m0_73633088/article/details/128371136"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1719571825888,
+                        "title": "解决 Qt 下载安装太慢的办法_qt下载慢-CSDN博客",
+                        "icon": "https://logo.clearbit.com/blog.csdn.net",
+                        "url": "https://blog.csdn.net/AntiHips/article/details/131702656"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1720266096399,
+                        "title": "QPushButton样式设置-CSDN博客",
+                        "icon": "https://logo.clearbit.com/blog.csdn.net",
+                        "url": "https://blog.csdn.net/m0_46577050/article/details/134087253"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1729131283478,
+                        "title": "64位时间戳实现-CSDN博客",
+                        "icon": "https://logo.clearbit.com/blog.csdn.net",
+                        "url": "https://blog.csdn.net/xinghongduo/article/details/9388633"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1738244320955,
+                    "title": "数据结构与算法",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1729577117420,
+                        "title": "grep之字符串搜索算法Boyer-Moore由浅入深（比KMP快3-5倍） - Alexia(minmin) - 博客园",
+                        "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                        "url": "https://www.cnblogs.com/lanxuezaipiao/p/3452579.html"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1731404333092,
+                        "title": "【C++】AVL树-CSDN博客",
+                        "icon": "https://logo.clearbit.com/blog.csdn.net",
+                        "url": "https://blog.csdn.net/weixin_74012727/article/details/142699182"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1732361085760,
+                        "title": "【数据结构】AVL树的删除（解析有点东西哦）_avl树删除节点-CSDN博客",
+                        "icon": "https://logo.clearbit.com/blog.csdn.net",
+                        "url": "https://blog.csdn.net/Shun_Hua/article/details/132917187"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1731996012753,
+                        "title": "【C++】红黑树_c++红黑树-CSDN博客",
+                        "icon": "https://logo.clearbit.com/blog.csdn.net",
+                        "url": "https://blog.csdn.net/weixin_74012727/article/details/142968896?spm=1001.2014.3001.5502"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1732019799762,
+                        "title": "目前最详细的红黑树原理分析（大量图片+过程推导！！！） - 西*风 - 博客园",
+                        "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                        "url": "https://www.cnblogs.com/yinbiao/p/10732600.html"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1732176555572,
+                        "title": "B树与B+树的原理剖析与C++代码实现 - 知乎",
+                        "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                        "url": "https://zhuanlan.zhihu.com/p/699792586"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1732286071557,
+                        "title": "C++(数据结构与算法):53---平衡搜索树之B-树_51CTO博客_数据结构树的算法",
+                        "icon": "https://logo.clearbit.com/blog.51cto.com",
+                        "url": "https://blog.51cto.com/u_15346415/5222005"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1738244374599,
+                    "title": "打包",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1700182140159,
+                        "title": "VS程序打包（使用InstallerProjects制作安装包）、自定义安装程序类、不用卸载旧包直接覆盖升级_installer projects-CSDN博客",
+                        "icon": "https://logo.clearbit.com/blog.csdn.net",
+                        "url": "https://blog.csdn.net/Tanasha114/article/details/109779001"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1727274057725,
+                        "title": "NSIS安装包_signjing的博客-CSDN博客",
+                        "icon": "https://logo.clearbit.com/blog.csdn.net",
+                        "url": "https://blog.csdn.net/signjing/category_1182262.html"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1727270581209,
+                        "title": "互联网软件的安装包界面设计",
+                        "icon": "https://logo.clearbit.com/www.360doc.com",
+                        "url": "http://www.360doc.com/content/17/0323/23/26636126_639606227.shtml"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1727275253275,
+                        "title": "Inno Setup入门",
+                        "icon": "https://logo.clearbit.com/www.360doc.com",
+                        "url": "http://www.360doc.com/userhome/4221543"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1714232007530,
+                    "title": "Git（分布式版本控制工具）_git _塞班呢的博客-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/a18307096730/article/details/124586216?spm=1001.2014.3001.5502"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1717379421865,
+                    "title": "如何解决：ssh: connect to host github.com port 22: Connection refused_ssh: connect to host port 22: connection refused-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/hjy_mysql/article/details/131596257"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1737946863042,
+                    "title": "TeX Live 2024 安装教程（Windows/WSL/Linux） - Eslzzyl - 博客园",
+                    "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                    "url": "https://www.cnblogs.com/eslzzyl/p/17358405.html"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1740465518718,
+                    "title": "【nvm】适合小白的 nvm 安装配置教程（Windows版） - 软柠柠吖 - 博客园",
+                    "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                    "url": "https://www.cnblogs.com/rnny/p/17839190.html"
+                  }
+                ]
               },
               {
                 "type": "link",
-                "addDate": 1717379421865,
-                "title": "如何解决：ssh: connect to host github.com port 22: Connection refused_ssh: connect to host port 22: connection refused-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/hjy_mysql/article/details/131596257"
+                "addDate": 1726915275490,
+                "title": "GNU 操作系统和自由软件运动",
+                "icon": "https://logo.clearbit.com/www.gnu.org",
+                "url": "https://www.gnu.org/"
               },
               {
                 "type": "link",
-                "addDate": 1718635802363,
-                "title": "windows环境下VSCode配置C++教程（使用msvc编译器）-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/lzh1097776020/article/details/127734980"
+                "addDate": 1738331129491,
+                "title": "Hugging Face – The AI community building the future.",
+                "icon": "https://logo.clearbit.com/huggingface.co",
+                "url": "https://huggingface.co/"
               },
               {
                 "type": "link",
-                "addDate": 1715414427551,
-                "title": "mciSendString函数简介（播放音乐以及录音相关操作）-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/m0_73633088/article/details/128371136"
+                "addDate": 1738330971375,
+                "title": "Ollama",
+                "icon": "https://logo.clearbit.com/ollama.com",
+                "url": "https://ollama.com/"
               },
               {
                 "type": "link",
-                "addDate": 1719571825888,
-                "title": "解决 Qt 下载安装太慢的办法_qt下载慢-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/AntiHips/article/details/131702656"
+                "addDate": 1722055855071,
+                "title": "首页 - HelloGitHub",
+                "icon": "https://logo.clearbit.com/hellogithub.com",
+                "url": "https://hellogithub.com/"
               },
               {
                 "type": "link",
-                "addDate": 1720266096399,
-                "title": "QPushButton样式设置-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/m0_46577050/article/details/134087253"
+                "addDate": 1725180776625,
+                "title": "Benny Huo",
+                "icon": "https://logo.clearbit.com/www.bennyhuo.com",
+                "url": "https://www.bennyhuo.com/"
               },
               {
                 "type": "link",
-                "addDate": 1700182140159,
-                "title": "VS程序打包（使用InstallerProjects制作安装包）、自定义安装程序类、不用卸载旧包直接覆盖升级_installer projects-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/Tanasha114/article/details/109779001"
+                "addDate": 1721373867038,
+                "title": "主页 - 面试鸭刷题神器",
+                "icon": "https://logo.clearbit.com/www.mianshiya.com",
+                "url": "https://www.mianshiya.com/"
               },
               {
                 "type": "link",
-                "addDate": 1727274057725,
-                "title": "NSIS安装包_signjing的博客-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/signjing/category_1182262.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1727270581209,
-                "title": "互联网软件的安装包界面设计",
-                "icon": "https://logo.clearbit.com/www.360doc.com",
-                "url": "http://www.360doc.com/content/17/0323/23/26636126_639606227.shtml"
-              },
-              {
-                "type": "link",
-                "addDate": 1727275253275,
-                "title": "Inno Setup入门",
-                "icon": "https://logo.clearbit.com/www.360doc.com",
-                "url": "http://www.360doc.com/userhome/4221543"
-              },
-              {
-                "type": "link",
-                "addDate": 1729131283478,
-                "title": "64位时间戳实现-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/xinghongduo/article/details/9388633"
-              },
-              {
-                "type": "link",
-                "addDate": 1729577117420,
-                "title": "grep之字符串搜索算法Boyer-Moore由浅入深（比KMP快3-5倍） - Alexia(minmin) - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/lanxuezaipiao/p/3452579.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1731404333092,
-                "title": "【C++】AVL树-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/weixin_74012727/article/details/142699182"
-              },
-              {
-                "type": "link",
-                "addDate": 1732361085760,
-                "title": "【数据结构】AVL树的删除（解析有点东西哦）_avl树删除节点-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/Shun_Hua/article/details/132917187"
-              },
-              {
-                "type": "link",
-                "addDate": 1731996012753,
-                "title": "【C++】红黑树_c++红黑树-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/weixin_74012727/article/details/142968896?spm=1001.2014.3001.5502"
-              },
-              {
-                "type": "link",
-                "addDate": 1732019799762,
-                "title": "目前最详细的红黑树原理分析（大量图片+过程推导！！！） - 西*风 - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/yinbiao/p/10732600.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1732176555572,
-                "title": "B树与B+树的原理剖析与C++代码实现 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/699792586"
-              },
-              {
-                "type": "link",
-                "addDate": 1732286071557,
-                "title": "C++(数据结构与算法):53---平衡搜索树之B-树_51CTO博客_数据结构树的算法",
-                "icon": "https://logo.clearbit.com/blog.51cto.com",
-                "url": "https://blog.51cto.com/u_15346415/5222005"
+                "addDate": 1700984658811,
+                "title": "Gitee - 基于 Git 的代码托管和研发协作平台",
+                "icon": "https://logo.clearbit.com/gitee.com",
+                "url": "https://gitee.com/"
               }
             ]
           },
@@ -954,10 +1066,10 @@
             "children": [
               {
                 "type": "link",
-                "addDate": 1718636238924,
-                "title": "VMware Workstation Pro",
+                "addDate": 1737953716041,
+                "title": "My Downloads - Support Portal - Broadcom support portal",
                 "icon": "https://logo.clearbit.com/support.broadcom.com",
-                "url": "https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro"
+                "url": "https://support.broadcom.com/group/ecx/downloads"
               },
               {
                 "type": "link",
@@ -1005,27 +1117,6 @@
           },
           {
             "type": "link",
-            "addDate": 1703941750033,
-            "title": "cppreference.com",
-            "icon": "https://logo.clearbit.com/zh.cppreference.com",
-            "url": "https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5"
-          },
-          {
-            "type": "link",
-            "addDate": 1729599017026,
-            "title": "Overview (Java SE 21 & JDK 21)",
-            "icon": "https://logo.clearbit.com/",
-            "url": "file:///F:/%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0/%E7%BC%96%E7%A8%8B%E8%B5%84%E6%96%99/Java/jdk-21.0.5_doc-all/api/index.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1722055855071,
-            "title": "首页 - HelloGitHub",
-            "icon": "https://logo.clearbit.com/hellogithub.com",
-            "url": "https://hellogithub.com/"
-          },
-          {
-            "type": "link",
             "addDate": 1613374799329,
             "title": "菜鸟教程 - 学的不仅是技术，更是梦想！",
             "icon": "https://logo.clearbit.com/www.runoob.com",
@@ -1033,17 +1124,38 @@
           },
           {
             "type": "link",
-            "addDate": 1703941946474,
-            "title": "Microsoft C/C++ 文档 | Microsoft Learn",
-            "icon": "https://logo.clearbit.com/learn.microsoft.com",
-            "url": "https://learn.microsoft.com/zh-cn/cpp/?view=msvc-170"
+            "addDate": 1739349126736,
+            "title": "Overview (Java SE 21 & JDK 21)",
+            "icon": "https://logo.clearbit.com/",
+            "url": "file:///F:/%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0/%E7%BC%96%E7%A8%8B/Java/jdk-21.0.5_doc-all/api/index.html"
           },
           {
             "type": "link",
-            "addDate": 1726915275490,
-            "title": "GNU 操作系统和自由软件运动",
-            "icon": "https://logo.clearbit.com/www.gnu.org",
-            "url": "https://www.gnu.org/"
+            "addDate": 1703941750033,
+            "title": "cppreference.com",
+            "icon": "https://logo.clearbit.com/zh.cppreference.com",
+            "url": "https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5"
+          },
+          {
+            "type": "link",
+            "addDate": 1699585744084,
+            "title": "阿里云-计算，为了无法计算的价值",
+            "icon": "https://logo.clearbit.com/www.aliyun.com",
+            "url": "https://www.aliyun.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1718539171614,
+            "title": "Qt | 软件开发全周期的各阶段工具",
+            "icon": "https://logo.clearbit.com/www.qt.io",
+            "url": "https://www.qt.io/zh-cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1738122768455,
+            "title": "JetBrains: 软件开发者和团队的必备工具",
+            "icon": "https://logo.clearbit.com/www.jetbrains.com.cn",
+            "url": "https://www.jetbrains.com.cn/"
           },
           {
             "type": "link",
@@ -1054,17 +1166,10 @@
           },
           {
             "type": "link",
-            "addDate": 1721373867038,
-            "title": "主页 - 面试鸭刷题神器",
-            "icon": "https://logo.clearbit.com/www.mianshiya.com",
-            "url": "https://www.mianshiya.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1725180776625,
-            "title": "Benny Huo",
-            "icon": "https://logo.clearbit.com/www.bennyhuo.com",
-            "url": "https://www.bennyhuo.com/"
+            "addDate": 1740564222580,
+            "title": "Hexo",
+            "icon": "https://logo.clearbit.com/hexo.io",
+            "url": "https://hexo.io/zh-cn/"
           },
           {
             "type": "link",
@@ -1079,13 +1184,6 @@
             "title": "The Missing Semester of Your CS Education",
             "icon": "https://logo.clearbit.com/missing.csail.mit.edu",
             "url": "https://missing.csail.mit.edu/"
-          },
-          {
-            "type": "link",
-            "addDate": 1700984658811,
-            "title": "Gitee - 基于 Git 的代码托管和研发协作平台",
-            "icon": "https://logo.clearbit.com/gitee.com",
-            "url": "https://gitee.com/"
           },
           {
             "type": "link",
@@ -1143,13 +1241,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1726376095871,
-                "title": "Codec Guide: K-Lite Codec Pack - For Windows 11 / 10 / 8.1 / 7",
-                "icon": "https://logo.clearbit.com/www.codecguide.com",
-                "url": "https://www.codecguide.com/"
-              },
-              {
-                "type": "link",
                 "addDate": 1728093983817,
                 "title": "voidtools",
                 "icon": "https://logo.clearbit.com/www.voidtools.com",
@@ -1175,6 +1266,13 @@
                 "title": "晨钟网络科技 - 致力于开发小众实用软件",
                 "icon": "https://logo.clearbit.com/jamcz.com",
                 "url": "https://jamcz.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1738321466914,
+                "title": "7-Zip",
+                "icon": "https://logo.clearbit.com/www.7-zip.org",
+                "url": "https://www.7-zip.org/"
               }
             ]
           },
@@ -1185,10 +1283,10 @@
             "children": [
               {
                 "type": "link",
-                "addDate": 1687676459158,
-                "title": "测速网 - 专业测网速, 网速测试, 宽带提速, 游戏测速, 直播测速, 5G测速, 物联网监测 - SpeedTest.cn",
-                "icon": "https://logo.clearbit.com/www.speedtest.cn",
-                "url": "https://www.speedtest.cn/"
+                "addDate": 1738045685889,
+                "title": "中国科学技术大学测速网站",
+                "icon": "https://logo.clearbit.com/test.ustc.edu.cn",
+                "url": "https://test.ustc.edu.cn/"
               },
               {
                 "type": "link",
@@ -1220,14 +1318,28 @@
               },
               {
                 "type": "link",
-                "addDate": 1727866528746,
-                "title": "NodeFree | SSR/V2ray/Clash免费节点",
+                "addDate": 1739322448425,
+                "title": "NodeFree - 免费节点|网络自由工具箱",
                 "icon": "https://logo.clearbit.com/nodefree.org",
                 "url": "https://nodefree.org/"
               },
               {
                 "type": "link",
-                "addDate": 1737637184553,
+                "addDate": 1738373181633,
+                "title": "免费高速节点推荐|免费节点|免费SSR|免费V2ray|免费Clash|免费Trajon",
+                "icon": "https://logo.clearbit.com/free.datiya.com",
+                "url": "https://free.datiya.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1738575638383,
+                "title": "ITDOG - 在线ping_在线tcping_网站测速_HTTP测速_API测速_路由追踪_在线MTR_DNS查询_ITDOG-云邦畅想",
+                "icon": "https://logo.clearbit.com/www.itdog.cn",
+                "url": "https://www.itdog.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1739274013050,
                 "title": "IPv6 测试",
                 "icon": "https://logo.clearbit.com/ipv6ready.me",
                 "url": "https://ipv6ready.me/index.html.zh_CN"
@@ -1282,6 +1394,13 @@
             "title": "草料二维码生成器",
             "icon": "https://logo.clearbit.com/cli.im",
             "url": "https://cli.im/"
+          },
+          {
+            "type": "link",
+            "addDate": 1739959165710,
+            "title": "VVQuest",
+            "icon": "https://logo.clearbit.com/vv.xy0v0.top",
+            "url": "https://vv.xy0v0.top/"
           },
           {
             "type": "link",
@@ -1343,10 +1462,10 @@
       },
       {
         "type": "link",
-        "addDate": 1727520723092,
-        "title": "Pintree",
+        "addDate": 1740640108628,
+        "title": "可乐の博客小站 - 你好，世界！",
         "icon": "https://logo.clearbit.com/njdldkl666699.github.io",
-        "url": "https://njdldkl666699.github.io/pintree/"
+        "url": "https://njdldkl666699.github.io/"
       }
     ]
   }
