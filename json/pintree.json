@@ -83,13 +83,55 @@
                 "title": "12万有导航丨一个互联网全职业的聚合资源网址导航",
                 "icon": "https://logo.clearbit.com/wanyouw.com",
                 "url": "https://wanyouw.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1747704083892,
+            "title": "AI",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1738038972837,
+                "title": "DeepSeek | 深度求索",
+                "icon": "https://logo.clearbit.com/www.deepseek.com",
+                "url": "https://www.deepseek.com/"
               },
               {
                 "type": "link",
-                "addDate": 1741498802594,
-                "title": "E-Hentai Galleries - The Free Hentai Doujinshi, Manga and Image Gallery System",
-                "icon": "https://logo.clearbit.com/e-hentai.org",
-                "url": "https://e-hentai.org/"
+                "addDate": 1739276366238,
+                "title": "OpenAI",
+                "icon": "https://logo.clearbit.com/openai.com",
+                "url": "https://openai.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1738331129491,
+                "title": "Hugging Face – The AI community building the future.",
+                "icon": "https://logo.clearbit.com/huggingface.co",
+                "url": "https://huggingface.co/"
+              },
+              {
+                "type": "link",
+                "addDate": 1738330971375,
+                "title": "Ollama",
+                "icon": "https://logo.clearbit.com/ollama.com",
+                "url": "https://ollama.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1721009978495,
+                "title": "可灵 AI - 新一代 AI 创意生产力平台",
+                "icon": "https://logo.clearbit.com/klingai.kuaishou.com",
+                "url": "https://klingai.kuaishou.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1747704044103,
+                "title": "即梦AI - 一站式AI创作平台",
+                "icon": "https://logo.clearbit.com/jimeng.jianying.com",
+                "url": "https://jimeng.jianying.com/ai-tool/home/"
               }
             ]
           },
@@ -141,27 +183,6 @@
             "title": "首页 - 知乎",
             "icon": "https://logo.clearbit.com/www.zhihu.com",
             "url": "https://www.zhihu.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1738038972837,
-            "title": "DeepSeek | 深度求索",
-            "icon": "https://logo.clearbit.com/www.deepseek.com",
-            "url": "https://www.deepseek.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1721009978495,
-            "title": "可灵 AI - 新一代 AI 创意生产力平台",
-            "icon": "https://logo.clearbit.com/klingai.kuaishou.com",
-            "url": "https://klingai.kuaishou.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1739276366238,
-            "title": "OpenAI",
-            "icon": "https://logo.clearbit.com/openai.com",
-            "url": "https://openai.com/"
           },
           {
             "type": "link",
@@ -305,24 +326,10 @@
           },
           {
             "type": "link",
-            "addDate": 1651370740388,
-            "title": "官方中文泰拉瑞亚维基百科（The Official Chinese Terraria Wiki） - 最详细的中文泰拉瑞亚百科",
-            "icon": "https://logo.clearbit.com/terraria.wiki.gg",
-            "url": "https://terraria.wiki.gg/zh/wiki/Terraria_Wiki"
-          },
-          {
-            "type": "link",
             "addDate": 1694681167166,
             "title": "THBWiki · 专业性的东方Project维基百科 - TBSGroup",
             "icon": "https://logo.clearbit.com/thwiki.cc",
             "url": "https://thwiki.cc/%E9%A6%96%E9%A1%B5"
-          },
-          {
-            "type": "link",
-            "addDate": 1687059006748,
-            "title": "Don't Starve 中文維基 | Fandom",
-            "icon": "https://logo.clearbit.com/dontstarve.fandom.com",
-            "url": "https://dontstarve.fandom.com/zh/wiki/Don%27t_Starve_%E4%B8%AD%E6%96%87%E7%B6%AD%E5%9F%BA"
           },
           {
             "type": "link",
@@ -347,10 +354,24 @@
           },
           {
             "type": "link",
+            "addDate": 1651370740388,
+            "title": "官方中文泰拉瑞亚维基百科（The Official Chinese Terraria Wiki） - 最详细的中文泰拉瑞亚百科",
+            "icon": "https://logo.clearbit.com/terraria.wiki.gg",
+            "url": "https://terraria.wiki.gg/zh/wiki/Terraria_Wiki"
+          },
+          {
+            "type": "link",
             "addDate": 1652023409041,
             "title": "Terraria(泰拉瑞亚)中文论坛 - Terraria中文站,泰拉瑞亚中文论坛,泰拉瑞亚论坛",
             "icon": "https://logo.clearbit.com/www.bbstr.net",
             "url": "https://www.bbstr.net/"
+          },
+          {
+            "type": "link",
+            "addDate": 1687059006748,
+            "title": "Don't Starve 中文維基 | Fandom",
+            "icon": "https://logo.clearbit.com/dontstarve.fandom.com",
+            "url": "https://dontstarve.fandom.com/zh/wiki/Don%27t_Starve_%E4%B8%AD%E6%96%87%E7%B6%AD%E5%9F%BA"
           },
           {
             "type": "link",
@@ -475,6 +496,20 @@
                 "title": "NKUCS.ICU",
                 "icon": "https://logo.clearbit.com/nkucs.icu",
                 "url": "https://nkucs.icu/#/"
+              },
+              {
+                "type": "link",
+                "addDate": 1749467333217,
+                "title": "NKUSE.ICU",
+                "icon": "https://logo.clearbit.com/nkuse.icu",
+                "url": "https://nkuse.icu/#/"
+              },
+              {
+                "type": "link",
+                "addDate": 1750604324199,
+                "title": "南开大学软件学院考试资料库",
+                "icon": "https://logo.clearbit.com/njdldkl666699.github.io",
+                "url": "https://njdldkl666699.github.io/Another-NKUSE-Exams/"
               }
             ]
           },
@@ -625,6 +660,13 @@
               },
               {
                 "type": "link",
+                "addDate": 1751249030672,
+                "title": "中软国际教育（天津）",
+                "icon": "https://logo.clearbit.com/www.omniedu.com",
+                "url": "https://www.omniedu.com/organ-portal"
+              },
+              {
+                "type": "link",
                 "addDate": 1699174578186,
                 "title": "PubScholar公益学术平台",
                 "icon": "https://logo.clearbit.com/pubscholar.cn",
@@ -722,6 +764,13 @@
             "title": "维基百科，自由的百科全书",
             "icon": "https://logo.clearbit.com/zh.wikipedia.org",
             "url": "https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5"
+          },
+          {
+            "type": "link",
+            "addDate": 1749456801521,
+            "title": "Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。",
+            "icon": "https://logo.clearbit.com/zh.101thur.ru",
+            "url": "https://zh.101thur.ru/"
           },
           {
             "type": "link",
@@ -914,6 +963,20 @@
                     "title": "Inno Setup入门",
                     "icon": "https://logo.clearbit.com/www.360doc.com",
                     "url": "http://www.360doc.com/userhome/4221543"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1747903708589,
+                    "title": "Jpackage-制作无需预装Java环境的Jar可执行程序 - 未读代码 - SegmentFault 思否",
+                    "icon": "https://logo.clearbit.com/segmentfault.com",
+                    "url": "https://segmentfault.com/a/1190000044693072"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1748177437883,
+                    "title": "idea swing gui设计后用mvn打包的pom配置 - 花开如梦 - 博客园",
+                    "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                    "url": "https://www.cnblogs.com/ruber/p/16358364.html"
                   }
                 ]
               },
@@ -1028,6 +1091,20 @@
                 "title": "IEEE-754 Floating Point Converter",
                 "icon": "https://logo.clearbit.com/www.h-schmidt.net",
                 "url": "https://www.h-schmidt.net/FloatConverter/IEEE754.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1747642275985,
+                "title": "Online Ascii Art Creator",
+                "icon": "https://logo.clearbit.com/www.ascii-art-generator.org",
+                "url": "https://www.ascii-art-generator.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1751264550746,
+                "title": "Learn Git Branching",
+                "icon": "https://logo.clearbit.com/learngitbranching.js.org",
+                "url": "https://learngitbranching.js.org/?locale=zh_CN"
               }
             ]
           },
@@ -1036,13 +1113,6 @@
             "addDate": 1726144213452,
             "title": "软件",
             "children": [
-              {
-                "type": "link",
-                "addDate": 1737953716041,
-                "title": "My Downloads - Support Portal - Broadcom support portal",
-                "icon": "https://logo.clearbit.com/support.broadcom.com",
-                "url": "https://support.broadcom.com/group/ecx/downloads"
-              },
               {
                 "type": "link",
                 "addDate": 1720573846059,
@@ -1084,6 +1154,13 @@
                 "title": "nginx",
                 "icon": "https://logo.clearbit.com/nginx.org",
                 "url": "https://nginx.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1748087059590,
+                "title": "ProductDownloads - Support Portal - Broadcom support portal",
+                "icon": "https://logo.clearbit.com/support.broadcom.com",
+                "url": "https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true"
               }
             ]
           },
@@ -1129,20 +1206,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1738331129491,
-                "title": "Hugging Face – The AI community building the future.",
-                "icon": "https://logo.clearbit.com/huggingface.co",
-                "url": "https://huggingface.co/"
-              },
-              {
-                "type": "link",
-                "addDate": 1738330971375,
-                "title": "Ollama",
-                "icon": "https://logo.clearbit.com/ollama.com",
-                "url": "https://ollama.com/"
-              },
-              {
-                "type": "link",
                 "addDate": 1700984658811,
                 "title": "Gitee - 基于 Git 的代码托管和研发协作平台",
                 "icon": "https://logo.clearbit.com/gitee.com",
@@ -1173,17 +1236,17 @@
           },
           {
             "type": "link",
-            "addDate": 1739349126736,
-            "title": "Overview (Java SE 21 & JDK 21)",
-            "icon": "https://logo.clearbit.com/",
-            "url": "file:///F:/%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0/%E7%BC%96%E7%A8%8B/Java/jdk-21.0.5_doc-all/api/index.html"
+            "addDate": 1749280253757,
+            "title": "cppreference.com",
+            "icon": "https://logo.clearbit.com/en.cppreference.com",
+            "url": "https://en.cppreference.com/"
           },
           {
             "type": "link",
-            "addDate": 1703941750033,
-            "title": "cppreference.com",
-            "icon": "https://logo.clearbit.com/zh.cppreference.com",
-            "url": "https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5"
+            "addDate": 1749280237915,
+            "title": "cppreference.cn - C++参考手册",
+            "icon": "https://logo.clearbit.com/cppreference.cn",
+            "url": "https://cppreference.cn/w/"
           },
           {
             "type": "link",
@@ -1240,6 +1303,13 @@
             "title": "The Missing Semester of Your CS Education",
             "icon": "https://logo.clearbit.com/missing.csail.mit.edu",
             "url": "https://missing.csail.mit.edu/"
+          },
+          {
+            "type": "link",
+            "addDate": 1749283589472,
+            "title": "可乐の博客小站 - 你好，世界！",
+            "icon": "https://logo.clearbit.com/njdldkl666699.github.io",
+            "url": "https://njdldkl666699.github.io/"
           }
         ]
       },
@@ -1399,6 +1469,13 @@
                 "title": "IPv6 测试",
                 "icon": "https://logo.clearbit.com/ipv6ready.me",
                 "url": "https://ipv6ready.me/index.html.zh_CN"
+              },
+              {
+                "type": "link",
+                "addDate": 1751114516896,
+                "title": "PairDrop | Transfer Files Cross-Platform. No Setup, No Signup.",
+                "icon": "https://logo.clearbit.com/pairdrop.net",
+                "url": "https://pairdrop.net/"
               }
             ]
           },
@@ -1497,10 +1574,10 @@
       },
       {
         "type": "link",
-        "addDate": 1698708947340,
-        "title": "百度翻译-200种语言互译、沟通全世界！",
-        "icon": "https://logo.clearbit.com/fanyi.baidu.com",
-        "url": "https://fanyi.baidu.com/"
+        "addDate": 1749554404769,
+        "title": "DeepL翻译：全世界最准确的翻译",
+        "icon": "https://logo.clearbit.com/www.deepl.com",
+        "url": "https://www.deepl.com/zh/translator"
       },
       {
         "type": "link",
@@ -1518,10 +1595,10 @@
       },
       {
         "type": "link",
-        "addDate": 1740640108628,
-        "title": "可乐の博客小站 - 你好，世界！",
-        "icon": "https://logo.clearbit.com/njdldkl666699.github.io",
-        "url": "https://njdldkl666699.github.io/"
+        "addDate": 1751286396176,
+        "title": "南开大学软件学院-AI大模型01班-2506-AI大模型01班-2506",
+        "icon": "https://logo.clearbit.com/www.omniedu.com",
+        "url": "https://www.omniedu.com/course/student/courses/1937678128579489794"
       }
     ]
   }
