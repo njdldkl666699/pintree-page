@@ -51,13 +51,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1728125728116,
-                "title": "盘搜VIP - 人工亲测精选的网盘搜索工具导航 - pansou.vip",
-                "icon": "https://logo.clearbit.com/www.pansou.vip",
-                "url": "https://www.pansou.vip/"
-              },
-              {
-                "type": "link",
                 "addDate": 1735988691360,
                 "title": "SYMBL (◕‿◕) 符号、Emoji、字符、脚本、字母表、象形文字和整个Unicode",
                 "icon": "https://logo.clearbit.com/symbl.cc",
@@ -79,10 +72,17 @@
               },
               {
                 "type": "link",
-                "addDate": 1739801324110,
-                "title": "12万有导航丨一个互联网全职业的聚合资源网址导航",
-                "icon": "https://logo.clearbit.com/wanyouw.com",
-                "url": "https://wanyouw.com/"
+                "addDate": 1752239065414,
+                "title": "PanHunt - 人工亲测精选的网盘搜索工具导航 - panhunt.com",
+                "icon": "https://logo.clearbit.com/panhunt.com",
+                "url": "https://panhunt.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1754187062225,
+                "title": "盘搜 - 基于TG频道的网盘搜索工具",
+                "icon": "https://logo.clearbit.com/pansou.jkai.de",
+                "url": "https://pansou.jkai.de/"
               }
             ]
           },
@@ -186,17 +186,24 @@
           },
           {
             "type": "link",
-            "addDate": 1739968289515,
-            "title": "樱之空动漫 - 樱花之空中舞一夜❀动漫在线播放网站・skr.cc",
-            "icon": "https://logo.clearbit.com/www.skr2.cc",
-            "url": "https://www.skr2.cc/"
-          },
-          {
-            "type": "link",
             "addDate": 1741516347042,
             "title": "京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！",
             "icon": "https://logo.clearbit.com/www.jd.com",
             "url": "https://www.jd.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1754032246382,
+            "title": "樱之空动漫 - 樱花之空中舞一夜❀动漫在线播放网站・skr.cc",
+            "icon": "https://logo.clearbit.com/skr.skr2.cc",
+            "url": "https://skr.skr2.cc:666/"
+          },
+          {
+            "type": "link",
+            "addDate": 1754187487049,
+            "title": "主页 | Iwara",
+            "icon": "https://logo.clearbit.com/www.iwara.tv",
+            "url": "https://www.iwara.tv/"
           }
         ]
       },
@@ -407,6 +414,13 @@
             "title": "资源 | PVZ同人创作论坛",
             "icon": "https://logo.clearbit.com/www.pvz.moe",
             "url": "https://www.pvz.moe/"
+          },
+          {
+            "type": "link",
+            "addDate": 1754391302537,
+            "title": "Godot Hub",
+            "icon": "https://logo.clearbit.com/godothub.com",
+            "url": "https://godothub.com/"
           }
         ]
       },
@@ -426,13 +440,6 @@
                 "title": "南开大学｜统一身份认证平台",
                 "icon": "https://logo.clearbit.com/iam.nankai.edu.cn",
                 "url": "https://iam.nankai.edu.cn/?next="
-              },
-              {
-                "type": "link",
-                "addDate": 1697439530018,
-                "title": "一站式登录平台",
-                "icon": "https://logo.clearbit.com/xgb.nankai.edu.cn",
-                "url": "https://xgb.nankai.edu.cn/user/login.html"
               },
               {
                 "type": "link",
@@ -585,13 +592,6 @@
           },
           {
             "type": "link",
-            "addDate": 1703300134325,
-            "title": "注销页",
-            "icon": "https://logo.clearbit.com/202.113.18.106",
-            "url": "http://202.113.18.106/"
-          },
-          {
-            "type": "link",
             "addDate": 1725175040654,
             "title": "NKU-OJ",
             "icon": "https://logo.clearbit.com/acm.nankai.edu.cn",
@@ -688,17 +688,17 @@
               },
               {
                 "type": "link",
-                "addDate": 1711365200327,
-                "title": "Arduino中文社区",
-                "icon": "https://logo.clearbit.com/arduino.me",
-                "url": "https://arduino.me/home"
-              },
-              {
-                "type": "link",
                 "addDate": 1711365232047,
                 "title": "Arduino - Home",
                 "icon": "https://logo.clearbit.com/www.arduino.cc",
                 "url": "https://www.arduino.cc/"
+              },
+              {
+                "type": "link",
+                "addDate": 1754374759659,
+                "title": "中国知网",
+                "icon": "https://logo.clearbit.com/www.cnki.net",
+                "url": "https://www.cnki.net/"
               }
             ]
           },
@@ -828,6 +828,104 @@
         "addDate": 1700482961407,
         "title": "编程",
         "children": [
+          {
+            "type": "folder",
+            "addDate": 1752761330647,
+            "title": "文档",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1613374799329,
+                "title": "菜鸟教程 - 学的不仅是技术，更是梦想！",
+                "icon": "https://logo.clearbit.com/www.runoob.com",
+                "url": "https://www.runoob.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1749280253757,
+                "title": "cppreference.com",
+                "icon": "https://logo.clearbit.com/en.cppreference.com",
+                "url": "https://en.cppreference.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1749280237915,
+                "title": "cppreference.cn - C++参考手册",
+                "icon": "https://logo.clearbit.com/cppreference.cn",
+                "url": "https://cppreference.cn/w/"
+              },
+              {
+                "type": "link",
+                "addDate": 1751381897259,
+                "title": "FastAPI",
+                "icon": "https://logo.clearbit.com/fastapi.tiangolo.com",
+                "url": "https://fastapi.tiangolo.com/zh/"
+              },
+              {
+                "type": "link",
+                "addDate": 1751718669258,
+                "title": "组件总览 - Ant Design Vue",
+                "icon": "https://logo.clearbit.com/www.antdv.com",
+                "url": "https://www.antdv.com/components/overview-cn"
+              },
+              {
+                "type": "link",
+                "addDate": 1725180776625,
+                "title": "Benny Huo",
+                "icon": "https://logo.clearbit.com/www.bennyhuo.com",
+                "url": "https://www.bennyhuo.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1714824505455,
+                "title": "The Missing Semester of Your CS Education",
+                "icon": "https://logo.clearbit.com/missing.csail.mit.edu",
+                "url": "https://missing.csail.mit.edu/"
+              },
+              {
+                "type": "link",
+                "addDate": 1752405378161,
+                "title": "AiDocZh - AI工具中文文档库",
+                "icon": "https://logo.clearbit.com/aidoczh.com",
+                "url": "https://aidoczh.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1751860018176,
+                "title": "LangChain中文网 - 跟着LangChain学AI开发",
+                "icon": "https://logo.clearbit.com/www.langchain.com.cn",
+                "url": "https://www.langchain.com.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1752669095909,
+                "title": "LangGraph",
+                "icon": "https://logo.clearbit.com/langchain-ai.github.io",
+                "url": "https://langchain-ai.github.io/langgraph/"
+              },
+              {
+                "type": "link",
+                "addDate": 1752302368386,
+                "title": "LangSmith",
+                "icon": "https://logo.clearbit.com/smith.langchain.com",
+                "url": "https://smith.langchain.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1754380404275,
+                "title": "LangChain4j | LangChain4j",
+                "icon": "https://logo.clearbit.com/docs.langchain4j.dev",
+                "url": "https://docs.langchain4j.dev/"
+              },
+              {
+                "type": "link",
+                "addDate": 1754380751418,
+                "title": "Spring AI Alibaba 官网_快速构建 JAVA AI 应用",
+                "icon": "https://logo.clearbit.com/java2ai.com",
+                "url": "https://java2ai.com/"
+              }
+            ]
+          },
           {
             "type": "folder",
             "addDate": 1718636270029,
@@ -996,13 +1094,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1737946863042,
-                "title": "TeX Live 2024 安装教程（Windows/WSL/Linux） - Eslzzyl - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/eslzzyl/p/17358405.html"
-              },
-              {
-                "type": "link",
                 "addDate": 1740465518718,
                 "title": "【nvm】适合小白的 nvm 安装配置教程（Windows版） - 软柠柠吖 - 博客园",
                 "icon": "https://logo.clearbit.com/www.cnblogs.com",
@@ -1035,6 +1126,13 @@
                 "title": "教程：使用 Swing 构建用户界面 | IntelliJ IDEA 文档",
                 "icon": "https://logo.clearbit.com/www.jetbrains.com",
                 "url": "https://www.jetbrains.com/zh-cn/help/idea/2025.1/design-gui-using-swing.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1751788526008,
+                "title": "TeX Live 2025 安装教程（Windows/WSL/Linux） - Eslzzyl - 博客园",
+                "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                "url": "https://www.cnblogs.com/eslzzyl/p/17358405.html"
               }
             ]
           },
@@ -1213,6 +1311,13 @@
               },
               {
                 "type": "link",
+                "addDate": 1729350777492,
+                "title": "TIOBE Index - TIOBE",
+                "icon": "https://logo.clearbit.com/www.tiobe.com",
+                "url": "https://www.tiobe.com/tiobe-index/"
+              },
+              {
+                "type": "link",
                 "addDate": 1740564222580,
                 "title": "Hexo",
                 "icon": "https://logo.clearbit.com/hexo.io",
@@ -1224,36 +1329,50 @@
                 "title": "Butterfly - A Simple and Card UI Design theme for Hexo",
                 "icon": "https://logo.clearbit.com/butterfly.js.org",
                 "url": "https://butterfly.js.org/"
-              },
-              {
-                "type": "link",
-                "addDate": 1729350777492,
-                "title": "TIOBE Index - TIOBE",
-                "icon": "https://logo.clearbit.com/www.tiobe.com",
-                "url": "https://www.tiobe.com/tiobe-index/"
               }
             ]
           },
           {
-            "type": "link",
-            "addDate": 1749280253757,
-            "title": "cppreference.com",
-            "icon": "https://logo.clearbit.com/en.cppreference.com",
-            "url": "https://en.cppreference.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1749280237915,
-            "title": "cppreference.cn - C++参考手册",
-            "icon": "https://logo.clearbit.com/cppreference.cn",
-            "url": "https://cppreference.cn/w/"
-          },
-          {
-            "type": "link",
-            "addDate": 1613374799329,
-            "title": "菜鸟教程 - 学的不仅是技术，更是梦想！",
-            "icon": "https://logo.clearbit.com/www.runoob.com",
-            "url": "https://www.runoob.com/"
+            "type": "folder",
+            "addDate": 1754379831197,
+            "title": "API",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1751510268890,
+                "title": "大模型服务平台百炼控制台",
+                "icon": "https://logo.clearbit.com/bailian.console.aliyun.com",
+                "url": "https://bailian.console.aliyun.com/console?tab=home#/home"
+              },
+              {
+                "type": "link",
+                "addDate": 1752067345931,
+                "title": "Tavily",
+                "icon": "https://logo.clearbit.com/www.tavily.com",
+                "url": "https://www.tavily.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1752578706615,
+                "title": "高德开放平台 | 高德地图API",
+                "icon": "https://logo.clearbit.com/lbs.amap.com",
+                "url": "https://lbs.amap.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1752732501194,
+                "title": "接口盒子 - 免费API-免费接口-站长工具-www.apihz.cn",
+                "icon": "https://logo.clearbit.com/apihz.cn",
+                "url": "https://apihz.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1752046627944,
+                "title": "SerpApi: Google Search API",
+                "icon": "https://logo.clearbit.com/serpapi.com",
+                "url": "https://serpapi.com/"
+              }
+            ]
           },
           {
             "type": "link",
@@ -1285,24 +1404,10 @@
           },
           {
             "type": "link",
-            "addDate": 1725180776625,
-            "title": "Benny Huo",
-            "icon": "https://logo.clearbit.com/www.bennyhuo.com",
-            "url": "https://www.bennyhuo.com/"
-          },
-          {
-            "type": "link",
             "addDate": 1721373867038,
             "title": "主页 - 面试鸭刷题神器",
             "icon": "https://logo.clearbit.com/www.mianshiya.com",
             "url": "https://www.mianshiya.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1714824505455,
-            "title": "The Missing Semester of Your CS Education",
-            "icon": "https://logo.clearbit.com/missing.csail.mit.edu",
-            "url": "https://missing.csail.mit.edu/"
           },
           {
             "type": "link",
@@ -1399,6 +1504,13 @@
                 "title": "阳光 | LizardByte",
                 "icon": "https://logo.clearbit.com/app.lizardbyte.dev",
                 "url": "https://app.lizardbyte.dev/Sunshine/?lng=zh-CN"
+              },
+              {
+                "type": "link",
+                "addDate": 1753003722611,
+                "title": "MusicFree | MusicFree",
+                "icon": "https://logo.clearbit.com/musicfree.catcat.work",
+                "url": "https://musicfree.catcat.work/"
               }
             ]
           },
@@ -1444,10 +1556,10 @@
               },
               {
                 "type": "link",
-                "addDate": 1739322448425,
+                "addDate": 1752299804680,
                 "title": "NodeFree - 免费节点|网络自由工具箱",
-                "icon": "https://logo.clearbit.com/nodefree.org",
-                "url": "https://nodefree.org/"
+                "icon": "https://logo.clearbit.com/nodefree.net",
+                "url": "https://nodefree.net/"
               },
               {
                 "type": "link",
@@ -1509,10 +1621,10 @@
           },
           {
             "type": "link",
-            "addDate": 1637463741895,
-            "title": "Best Free OCR API, Online OCR, Searchable PDF",
+            "addDate": 1751883614974,
+            "title": "Free OCR API V2025, Online OCR",
             "icon": "https://logo.clearbit.com/ocr.space",
-            "url": "http://ocr.space/"
+            "url": "https://ocr.space/"
           },
           {
             "type": "link",
@@ -1595,10 +1707,10 @@
       },
       {
         "type": "link",
-        "addDate": 1751286396176,
-        "title": "南开大学软件学院-AI大模型01班-2506-AI大模型01班-2506",
-        "icon": "https://logo.clearbit.com/www.omniedu.com",
-        "url": "https://www.omniedu.com/course/student/courses/1937678128579489794"
+        "addDate": 1753609003035,
+        "title": "DeepSeek - 探索未至之境",
+        "icon": "https://logo.clearbit.com/chat.deepseek.com",
+        "url": "https://chat.deepseek.com/"
       }
     ]
   }
